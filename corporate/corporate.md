@@ -20,4 +20,3 @@ slidenumbers: true
 ![original](assets/background.png)
 
 ---
-
