@@ -4,6 +4,7 @@ Custom themes to be used with Deckset
 <!-- toc -->
 
 - [Usage](#usage)
+- [Themes](#themes)
 
 <!-- tocstop -->
 
