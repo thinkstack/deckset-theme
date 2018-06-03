@@ -1,2 +1,8 @@
-# deckset-theme
-Custom theme to be used with Deckset
+# Deckset Themes
+Custom themes to be used with Deckset
+
+<!-- toc -->
+
+<!-- tocstop -->
+
+## Usage
